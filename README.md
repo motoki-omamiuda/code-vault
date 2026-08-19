@@ -1,5 +1,2 @@
-# code-vault
+# 汎用的なコード記録
 
-```shell
-export PYTHONPATH="${PYTHONPATH}:$(pwd)"
-```
